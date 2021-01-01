@@ -9,7 +9,7 @@ public class Main {
 	// write your code here
         Result result = new Result();
         List<String> numbers = new ArrayList<>();
-        numbers.add("312");
+        numbers.add("123");
         numbers.add("240");
         System.out.println(result.checkDivisibility(numbers));
     }
